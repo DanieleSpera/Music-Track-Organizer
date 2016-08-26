@@ -1,6 +1,8 @@
 # BpmPlacer
 Sort and store songs by Bpm
 
+Clone Run gui.py for a ride
+
 Language: Python3
 
 Used Libraries
